@@ -5,7 +5,7 @@
 ## Description.
 G => 하루동안 해야할 목표  
 R => 결과  
-    c : 목표를 달성  
-    hc : 목표를 절반정도 달성   
-    f : 목표 달성 실패  
+&nbsp;&nbsp;&nbsp;&nbsp;c : 목표를 달성  
+&nbsp;&nbsp;&nbsp;&nbsp;hc : 목표를 절반정도 달성   
+&nbsp;&nbsp;&nbsp;&nbsp;f : 목표 달성 실패  
 A => G의 목표 이외에 진행한(달성한) 목표  
